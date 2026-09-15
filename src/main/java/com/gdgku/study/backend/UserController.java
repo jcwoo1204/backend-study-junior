@@ -58,8 +58,4 @@ public class UserController {
     public String getUserByQueryParam(@RequestParam String name) {
         return "Query Param name: " + name;
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> cec7efb (feat: add backend study implementation)
